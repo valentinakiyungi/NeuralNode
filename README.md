@@ -1,4 +1,4 @@
-#  NeuralNode | AI Talent Marketplace
+#  NeuralNode - AI Talent Marketplace
 
 NeuralNode is a next-generation marketplace designed specifically for the AI economy. It connects elite AI developers, prompt engineers, and automation specialists with high-value projects, using advanced LLM-powered verification to ensure technical excellence.
 
