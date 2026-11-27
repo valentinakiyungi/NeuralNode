@@ -30,6 +30,6 @@ NeuralNode is a next-generation marketplace designed specifically for the AI eco
 NeuralNode leverages **Genkit** to handle complex AI logic:
 
 - **Proposal Generation**: Uses the `generateCustomProposalFlow` to bridge the gap between job descriptions and freelancer capabilities.
-- **Skill Verification**: Uses the `verifyFreelancerSkillsFlow` which includes custom tools for fetching and summarizing GitHub repository data.
+- **Skill Verification**: Uses the `verifyFreelancerSkillsFlow`, which includes custom tools for fetching and summarizing GitHub repository data.
 
 
