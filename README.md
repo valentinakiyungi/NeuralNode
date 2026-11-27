@@ -18,10 +18,10 @@ NeuralNode is a next-generation marketplace designed specifically for the AI eco
 
 - **Framework**: [Next.js 15 (App Router)](https://nextjs.org/)
 - **UI & Styling**: [React 19](https://react.dev/), [Tailwind CSS](https://tailwindcss.com/), [Shadcn UI](https://ui.shadcn.com/)
-- **AI Orchestration**: [Genkit](https://github.com/firebase/genkit) (Google Generative AI)
+- **AI Orchestration**: [Genkit](https://github.com/firebase/genkit) Google Generative AI
 - **Icons**: [Lucide React](https://lucide.dev/)
 - **Type Safety**: [TypeScript](https://www.typescriptlang.org/)
-- **Database & Auth**: [Firebase](https://firebase.google.com/) (Firestore & Authentication)
+- **Database & Auth**: [Firebase](https://firebase.google.com/) Firestore & Authentication
 
 
 
